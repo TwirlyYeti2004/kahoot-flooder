@@ -1,0 +1,21 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "kahoot-spam": "^1.1.8",
+    "kahoot.js-updated": "^2.2.5",
+    "mongoose": "^5.10.14",
+    "node-gyp": "^7.1.2",
+    "request": "^2.88.2"
+  }
+}
